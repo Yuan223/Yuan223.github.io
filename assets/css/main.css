@@ -1422,15 +1422,16 @@
 	font-weight: 400;
 	font-family: 'Passion One', cursive;
 }
+
 #project{
-	text-align: center;
+	text-align: justify;
 	color: #fff;
 	font-size: 1.8em;
 	font-weight: 0.5;
 	
 
 }
-#OYSwebpage-image{
+#webpage-image{
 	display: block;
 	margin-top: 15px;
   	margin-left: auto;
